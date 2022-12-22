@@ -1,4 +1,8 @@
-### Hi there 👋  I'm Donghyeok
+<h3 align="center">Hi there 👋  I'm Donghyeok</h3>
+<br>
+
+<p align="center">
+📫 How to reach me: reodinas2@gmail.com
 
 <!--
 **reodinas/reodinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  
+<br>
+<br>
+<br>
 <h3 align="center"><b>:pencil2: Stack :pencil2:</b></h3>
 </br>
 <p align="center">
