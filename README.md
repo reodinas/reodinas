@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"><b>:pencil2: Tech Stack :pencil2:</b></h3>
+<h3 align="center"><b>:pencil2: Stack :pencil2:</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
